@@ -11,8 +11,8 @@
 ---
 
 ## 🎓 Academic Project Information
-- **Student Name:** SUJAL REDDY
-- **Hall Ticket Number:** 2303A51713
+- **Student Name:** Rupaas,Arkan,Mahanand
+- **Hall Ticket Number:** 2303A52417,2303A52470,2303A52462
 - **Subject:** DevOps & Full Stack
 - **Academic Year:** 2026–2027
 - **Institution:** Department of Computer Science & Engineering
